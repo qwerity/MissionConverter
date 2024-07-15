@@ -1,0 +1,6 @@
+cmake-build-*/
+build/
+
+bin/MissionConverter
+bin/parameters
+CMakeLists.txt.user
